@@ -1,4 +1,4 @@
-## Hi there 👋:
+## hallo, sou leo:
 - 🔭 trabalho com fortend
 - 🌱 estudando typescript
 - 🎓 cursando eng. software
